@@ -1,0 +1,20 @@
+html {
+  height: 100%;
+}
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  height: 100vh;
+  background-image: var(--bg-gradient);
+}
+
+a {
+  color: #00B7FF;
+}
+
+.container {
+  display: flex;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+}
